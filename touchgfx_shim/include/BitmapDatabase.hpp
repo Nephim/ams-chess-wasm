@@ -1,0 +1,6 @@
+#ifndef SHIM_BITMAPDATABASE_WRAPPER_HPP
+#define SHIM_BITMAPDATABASE_WRAPPER_HPP
+
+#include <images/BitmapDatabase.hpp>
+
+#endif // SHIM_BITMAPDATABASE_WRAPPER_HPP

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_TJ9N" Alignment="Center" TypographyId="TestBox">
+        <Translation Language="GB">New Game</Translation>
+      </Text>
+      <Text Id="__SingleUse_R53Q" Alignment="Left" TypographyId="TestBox">
+        <Translation Language="GB">White wins!</Translation>
+      </Text>
+      <Text Id="__SingleUse_2O8W" Alignment="Center" TypographyId="TestBox">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DJI9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_2Z9V" Alignment="Center" TypographyId="Header">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IUB6" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">Difficulty:</Translation>
+      </Text>
+      <Text Id="__SingleUse_ABPL" Alignment="Center" TypographyId="TestBox">
+        <Translation Language="GB">Multiplayer</Translation>
+      </Text>
+      <Text Id="__SingleUse_7W5Z" Alignment="Center" TypographyId="TestBox">
+        <Translation Language="GB">Singleplayer</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y56L" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">Black:</Translation>
+      </Text>
+      <Text Id="WhiteScore" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_AYOG" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">White:</Translation>
+      </Text>
+      <Text Id="__SingleUse_WXYY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">A1</Translation>
+      </Text>
+      <Text Id="__SingleUse_VERC" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">T: &lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XH2W" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">T: &lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FT70" Alignment="Left" TypographyId="TestBox">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KKWI" Alignment="Left" TypographyId="TestBox">
+        <Translation Language="GB">1A</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="12" Bpp="4" IsVector="yes" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="0123456789 :APM" WildcardCharacterRanges="0x00-0xFFFF" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="TestBox" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x00-0xFF" />
+    <Typography Id="Header" Font="verdana.ttf" Size="10" Bpp="4" IsVector="yes" Direction="RTL" FallbackCharacter="?" WildcardCharacterRanges="0x00-0xFFFF" />
+  </Typographies>
+</TextDatabase>
